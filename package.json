@@ -1,0 +1,27 @@
+{
+  "name": "mongosee-query",
+  "version": "1.0.0",
+  "description": "Mongosee query for API Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mpadovani@github.com/mpadovani/mongosee-query.git"
+  },
+  "keywords": [
+    "mongosee",
+    "query",
+    "mongosee-query",
+    "eq[]",
+    "neq[]",
+    "fields"
+  ],
+  "author": "mpadovani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpadovani/mongosee-query/issues"
+  },
+  "homepage": "https://github.com/mpadovani/mongosee-query#readme"
+}
